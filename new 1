@@ -20,8 +20,8 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqAwJec.png" group-title="INDIA",UBL (ASHRU TV)
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qqa1A35.png" group-title="INDIA",9XM
-http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qqa1A35.png" group-title="INDIA",MEDIA ONE (ASHRU TV)
+https://stream-05.ix7.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZdeMedlIkiHVdRKtByGBoJI)/dm/3/x7t7mgl/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA",KCL (ASHRU TV)
 https://kcltv.livebox.co.in/kclhls/live.m3u8
@@ -41,8 +41,8 @@ https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="INDIA",VICTERS (ASHRU TV)
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png" group-title="INDIA",ACV (Opt-1) (New!)
-https://acv.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png" group-title="INDIA",K TV (ASHRU TV)
+https://suntv.skandha.tv/KTV/KTV.isml/KTV-audio_1=64000-video=1499968.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png" group-title="INDIA",ACV (Opt-2) (New!)
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
