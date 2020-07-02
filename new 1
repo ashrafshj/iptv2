@@ -1,45 +1,45 @@
 
-#EXTINF:-1 tvg-logo="https://www.cleanpng.com/png-channel-1595363/" group-title="LABEL",~ SURYA(ASHRU TV) ~
+#EXTINF:-1 tvg-logo="https://www.cleanpng.com/png-channel-1595363/" group-title="LABEL", SURYA(ASHRU TV) 
 https://suntv.skandha.tv/SuryaTV/SuryaTV.isml/SuryaTV-audio_1=64000-video=1499968.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ujoi9Uh.png" group-title="INDIA",1 SURYA MOVIES (ASHRU TV)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ujoi9Uh.png" group-title="INDIA", SURYA MOVIES (ASHRU TV)
 https://suntv.skandha.tv/SuryaMovies/SuryaMovies.isml/SuryaMovies-audio_1=64000-video=1499968.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA",24 News Malayalam (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA",24 News Malayalam (ASHRU TV)
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3gTwOsn.png" group-title="INDIA",1st India
-https://live.wmncdn.net/firstindianewstv1/live.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3gTwOsn.png" group-title="INDIA",MAZHAVIL MANORAMA (ASHRU TV)
+http://mhdworld.fun:80/delta/yuppp.m3u8?id=25796&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sMgWdff.png" group-title="INDIA",4K Tamil TV
-http://184.173.179.163:1935/Jaffnatv/Jaffnatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMgWdff.png" group-title="INDIA",ZEE KERALAM (ASHRU TV)
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="INDIA",7S Music (New!)
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqAwJec.png" group-title="INDIA",5aab TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqAwJec.png" group-title="INDIA",UBL (ASHRU TV)
+https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qqa1A35.png" group-title="INDIA",9XM
 http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA",Aaj Tak (Opt-1)
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA",KCL (ASHRU TV)
+https://kcltv.livebox.co.in/kclhls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA",Aaj Tak (Opt-2)
-http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L240P/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA",ASIANET (ASHRU TV)
+http://jiocdn.fun/mymhdtvworld/xxx1.php?c=asianethd&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5dOEta.png" group-title="INDIA",Aaryaa TV
-http://150.242.21.2/aaryaa.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5dOEta.png" group-title="INDIA",FLOWERS (ASHRU TV)
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SeaWMgV.png" group-title="INDIA",ABP Asmita (New!)
-https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SeaWMgV.png" group-title="INDIA",M4(ASHRU TV)
+https://app.m4stream.live/mfourmalayalamhls/live.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U6GGaHo.png" group-title="INDIA",ABP Majha (New!)
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U6GGaHo.png" group-title="INDIA",JEEVAN(ASHRU TV)
+https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="INDIA",ABP News (New!)
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="INDIA",VICTERS (ASHRU TV)
+https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png" group-title="INDIA",ACV (Opt-1) (New!)
 https://acv.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/index.m3u8
