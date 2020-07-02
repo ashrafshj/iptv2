@@ -1,9 +1,9 @@
 
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/in.png" group-title="LABEL",~ India TV ~
-http://www.lengua.com/anthems/India.mp3
+#EXTINF:-1 tvg-logo="https://www.cleanpng.com/png-channel-1595363/" group-title="LABEL",~ SURYA(ASHRU TV) ~
+https://suntv.skandha.tv/SuryaTV/SuryaTV.isml/SuryaTV-audio_1=64000-video=1499968.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ujoi9Uh.png" group-title="INDIA",1 Yes TV
-http://150.242.21.2/oneyes.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ujoi9Uh.png" group-title="INDIA",1 SURYA MOVIES (ASHRU TV)
+https://suntv.skandha.tv/SuryaMovies/SuryaMovies.isml/SuryaMovies-audio_1=64000-video=1499968.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA",24 News Malayalam (New!)
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
