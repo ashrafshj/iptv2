@@ -7,15 +7,15 @@ https://watchindia.net:8443/live/15843/56625/279.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
 https://watchindia.net:8443/live/15843/56625/287.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-https://watchindia.net:8443/live/15843/56625/294.ts
+https://watchindia.net:8443/live/15843/56625/284.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers
 https://watchindia.net:8443/live/15843/56625/2.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
 https://watchindia.net:8443/live/15843/56625/298.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
-https://watchindia.net:8443/live/15843/56625/307.ts
+http://89.187.169.203:2200/R-EX/MALAYALAM_KAIRALI_PEOPLE_TV-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
-https://streamitv.multitvsolution.in/idvo/kairaliarabia_540p/index.m3u8
+https://watchindia.net:8443/live/15843/56625/307.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We 
 https://load.airtel.tv/kairaliwe/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/",Asianet Middle East
@@ -41,7 +41,7 @@ https://watchindia.net:8443/live/15843/56625/845.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/IBHDK8C/" group-title="NEWS",Asianet News
 https://watchindia.net:8443/live/15843/56625/268.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="NEWS",Media One
-https://watchindia.net:8443/live/15843/56625/302.ts
+https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
 https://watchindia.net:8443/live/15843/56625/1064.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
