@@ -11,15 +11,15 @@ http://185.246.210.50:2200/R-EX/MALAYALAM_AMRITHA_TV-in/tracks-v1a1/mono.m3u8?to
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers
 http://185.246.210.52:2200/R-EX/MALAYALAM_FLOWERS_TV-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
-http://185.246.210.51:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.therevenge.co:80/307231215061/307231215061/83884
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
 http://89.187.169.203:2200/R-EX/MALAYALAM_KAIRALI_PEOPLE_TV-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
-http://185.246.210.50:2200/R-EX/MALAYALAM_FLOWERS_ARABIA-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://89.187.169.204:2200/R-EX/MALAYALAM_KAIRALI_ARABIA-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We 
 http://89.187.169.204:2200/R-EX/MALAYALAM__TV-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/",Asianet Middle East
-http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87479
+http://rv.therevenge.co:80/307231215061/307231215061/83894
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies 
 http://89.187.169.206:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
@@ -62,3 +62,5 @@ http://89.187.169.200:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8
 http://185.246.210.54:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png" group-title="SPORTS",Star Sports 2
 http://89.187.169.205:2200/EX/starsports2hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+#EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
+http://iptvuk.ninja:8080/xAXzkw2jQD/ty9Hn39aGPFC/87288
