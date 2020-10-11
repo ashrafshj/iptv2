@@ -1,15 +1,15 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/",Asianet HD 
 http://rv.therevenge.co:80/307231215061/307231215061/83893
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
-http://rv.therevenge.co:80/307231215061/307231215061/83889
+http://185.246.210.56:2200/R-EX/MALAYALAM_MAZAVIL_MANORAMA_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD
 http://185.246.210.53:2200/R-EX/MALAYALAM_SURYA_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
-http://rv.therevenge.co:80/307231215061/307231215061/83877
+http://185.246.210.56:2200/R-EX/MALAYALAM_ZEE_KERALAM_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
 http://185.246.210.50:2200/R-EX/MALAYALAM_AMRITHA_TV-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers
-http://rv.therevenge.co:80/307231215061/307231215061/83892
+http://185.246.210.52:2200/R-EX/MALAYALAM_FLOWERS_TV-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/",Surya Movies
 http://rv.therevenge.co:80/307231215061/307231215061/83884
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali TV
@@ -21,13 +21,13 @@ http://89.187.169.204:2200/R-EX/MALAYALAM_WE_TV-in/tracks-v1a1/mono.m3u8?token=a
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/",Asianet Middle East
 http://rv.therevenge.co:80/307231215061/307231215061/83894
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies 
-http://rv.therevenge.co:80/307231215061/307231215061/83886
+http://89.187.169.206:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
 http://89.187.169.202:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
-http://rv.therevenge.co:80/307231215061/307231215061/83875
+http://89.187.169.200:2200/R-EX/MALAYALAM_JAIHIND_TV-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
