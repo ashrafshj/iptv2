@@ -6,8 +6,8 @@ http://89.187.169.203:2200/R-EX/TELUGU_ETV_PLUS-in/tracks-v1a1/mono.m3u8?token=
 http://89.187.169.203:2200/R-EX/TELUGU_GEMINI_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-name="Gemini Movies HD(Hotstar)" tvg-id="735" group-title="Telugu Movies" tvg-logo="https://assets.wxca.cf/images/a/wQHatqfCMX.png",Gemini Movies HD
 http://89.187.169.203:2200/R-EX/TELUGU_GEMINI_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-name="Maa Gold(Hotstar)" tvg-id="736" group-title="Telugu Movies" tvg-logo="https://assets.wxca.cf/images/h/AAGDOthREo.jpg",Maa Gold
-http://89.187.169.203:2200/R-EX/TELUGU_STAR_MAA_GOLD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="760" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Telugu Movies",Maa Movies HD
+http://89.187.169.203:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix HD
 http://iptvtree.net:8080/F11501/bb37235d/49539
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
