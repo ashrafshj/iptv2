@@ -22,8 +22,8 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 http://89.187.169.203:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-name="TV9 Telugu News(Airtel)" tvg-id="773" group-title="Telugu News" tvg-logo="https://assets.wxca.cf/images/a/VyyivPnsCE.png",TV9 Telugu News
 https://load.airtelxstream.in/tv9telugunews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://imgur.com/download/rvpMAcx/" group-title="KIDS",Cartoon Network 
-http://185.246.210.54:2200/R-EX/KIDS_CARTOON_NETWORK-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+#EXTINF:-1 tvg-logo="https://imgur.com/download/3WqRpU3/" group-title="KIDS",Kushi TV
+http://89.187.169.203:2200/R-EX/TELUGU_KUSHI_TV-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-name="Gemini Music HD(Airtel)" tvg-id="741" group-title="Telugu Music" tvg-logo="https://assets.wxca.cf/images/a/FohbdzNWKY.png",Gemini Music 
 http://89.187.169.203:2200/R-EX/TELUGU_GEMINI_MUSIC-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Hindi Music",9X Jalwa
