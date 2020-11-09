@@ -4,6 +4,8 @@ http://89.187.169.203:2200/R-EX/TELUGU_ETV_HD-in/tracks-v1a1/mono.m3u8?token=
 http://89.187.169.203:2200/R-EX/TELUGU_ETV_PLUS-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-name="Zee Telugu HD(Airtel)" tvg-id="714" group-title="Telugu Entertainment" tvg-logo="https://assets.wxca.cf/images/a/IdCLvAdqSu.png",Zee Telugu HD
 http://z5amshls.akamaized.net/zeeteleguhd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="413" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Telugu Movies",Zee Cinemalu
+http://z5amshls.akamaized.net/zcinemalusd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="Gemini TV HD(Airtel)" tvg-id="705" group-title="Telugu Entertainment" tvg-logo="https://assets.wxca.cf/images/a/daFFMIJdUI.png",Gemini TV 
 https://load.airtelxstream.in/geminitv/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-name="Gemini Movies HD(Hotstar)" tvg-id="735" group-title="Telugu Movies" tvg-logo="https://assets.wxca.cf/images/a/wQHatqfCMX.png",Gemini Movies HD
@@ -24,7 +26,7 @@ https://load.airtelxstream.in/tv9telugunews/smil:common.smil/playlist.m3u8?DVR
 http://185.246.210.54:2200/R-EX/KIDS_CARTOON_NETWORK-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-name="Gemini Music HD(Airtel)" tvg-id="741" group-title="Telugu Music" tvg-logo="https://assets.wxca.cf/images/a/FohbdzNWKY.png",Gemini Music 
 http://89.187.169.203:2200/R-EX/TELUGU_GEMINI_MUSIC-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="MUSIC",9X Jalwa
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Hindi Music",9X Jalwa
 http://185.246.210.55:2200/R-EX/HINDI_9X_JALWA-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
 http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=
