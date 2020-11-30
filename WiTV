@@ -34,6 +34,12 @@ http://89.187.169.203:2200/R-EX/TELUGU_KUSHI_TV-in/tracks-v1a1/mono.m3u8?token=a
 http://89.187.169.203:2200/R-EX/TELUGU_GEMINI_MUSIC-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Hindi Music",9X Jalwa
 http://185.246.210.55:2200/R-EX/HINDI_9X_JALWA-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+#EXTINF:-1 group-title=",INT: BIG DICK
+http://live.redtraffic.xyz/bigdick.m3u8?streamType=live
+#EXTINF:-1 group-title=",INT: TEEN
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title=",INT: PORN STAR 
+http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
 http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
