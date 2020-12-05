@@ -6,8 +6,8 @@ http://89.187.169.203:2200/R-EX/TELUGU_ETV_PLUS-in/tracks-v1a1/mono.m3u8?token=a
 http://z5amshls.akamaized.net/zeeteleguhd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Telugu Movies",Zee Cinemalu
 http://z5amshls.akamaized.net/zcinemalusd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-name="Gemini TV HD(Airtel)" group-title="Telugu Entertainment" tvg-logo="https://assets.wxca.cf/images/a/daFFMIJdUI.png",Gemini TV 
-https://load.airtelxstream.in/geminitv/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-name="Gemini TV HD(Airtel)" group-title="Telugu Entertainment" tvg-logo="https://assets.wxca.cf/images/a/daFFMIJdUI.png",Gemini TV HD
+http://89.187.169.203:2200/R-EX/TELUGU_GEMINI_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-name="Gemini Movies HD(Hotstar)" group-title="Telugu Movies" tvg-logo="https://assets.wxca.cf/images/a/wQHatqfCMX.png",Gemini Movies HD
 http://89.187.169.203:2200/R-EX/TELUGU_GEMINI_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-name="Star Maa HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu Entertainment",Star Maa HD
@@ -15,7 +15,7 @@ http://185.246.210.55:2200/R-EX/TELUGU_STAR_MAA_HD-in/tracks-v1a1/mono.m3u8?toke
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Telugu Movies",Maa Movies HD
 http://89.187.169.203:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-name="Sony" group-title="Hindi Entertainment"tvg-logo="https://imgur.com/download/F8poNA2/",Sony TV
-http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
+http://89.187.169.200:2200/R-EX/HINDI_SONY_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix HD
 http://185.246.210.55:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
@@ -27,7 +27,7 @@ http://89.187.169.203:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="V6 News" tvg-logo="https://watchindia.net/images/channels/telugu/V6_News.png" group-title="Telugu News",V6 News
 http://185.246.210.55:2200/R-EX/TELUGU_V6_NEWS-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-name="TV9 Telugu News(Airtel)" group-title="Telugu News" tvg-logo="https://assets.wxca.cf/images/a/VyyivPnsCE.png",TV9 News
-https://load.airtelxstream.in/tv9telugunews/smil:common.smil/playlist.m3u8?DVR
+http://89.187.169.203:2200/R-EX/TELUGU_TV9_TELUGU_NEWS-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/3WqRpU3/" group-title="KIDS",Kushi TV
 http://89.187.169.203:2200/R-EX/TELUGU_KUSHI_TV-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-name="Gemini Music HD(Airtel)" group-title="Telugu Music" tvg-logo="https://assets.wxca.cf/images/a/FohbdzNWKY.png",Gemini Music 
