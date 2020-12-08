@@ -15,7 +15,7 @@ http://185.246.210.55:2200/R-EX/TELUGU_STAR_MAA_HD-in/tracks-v1a1/mono.m3u8?toke
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Telugu Movies",Maa Movies HD
 http://89.187.169.203:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-name="Sony" group-title="Hindi Entertainment"tvg-logo="https://imgur.com/download/F8poNA2/",Sony TV
-http://89.187.169.200:2200/R-EX/HINDI_SONY_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix HD
 http://185.246.210.55:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
@@ -40,9 +40,13 @@ http://live.redtraffic.xyz/bigdick.m3u8?streamType=live
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 group-title=",INT: PORN STAR 
 http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title=",INT: STAR XX
+http://mytv.fun:8080/bastian321/qg9iiqbtv/19674
+#EXTINF:-1 group-title=",INT: PORN XX
+http://mytv.fun:8080/bastian321/qg9iiqbtv/13867
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
-http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
 http://185.246.210.55:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-http://185.246.210.55:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
