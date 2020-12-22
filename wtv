@@ -28,25 +28,3 @@ http://89.187.169.204:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8
 http://185.246.210.55:2200/R-EX/TELUGU_V6_NEWS-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-name="TV9 Telugu News(Airtel)" group-title="Telugu News" tvg-logo="https://assets.wxca.cf/images/a/VyyivPnsCE.png",TV9 News
 http://89.187.169.204:2200/R-EX/TELUGU_TV9_TELUGU_NEWS-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="https://imgur.com/download/3WqRpU3/" group-title="KIDS",Kushi TV
-http://89.187.169.204:2200/R-EX/TELUGU_KUSHI_TV-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
-#EXTINF:-1 tvg-name="Gemini Music HD(Airtel)" group-title="Telugu Music" tvg-logo="https://assets.wxca.cf/images/a/FohbdzNWKY.png",Gemini Music 
-http://89.187.169.204:2200/R-EX/TELUGU_GEMINI_MUSIC-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Hindi Music",9X Jalwa
-http://185.246.210.55:2200/R-EX/HINDI_9X_JALWA-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
-#EXTINF:-1 group-title=",INT: BIG DICK
-http://live.redtraffic.xyz/bigdick.m3u8?streamType=live
-#EXTINF:-1 group-title=",INT: TEEN
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title=",INT: PORN STAR 
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title=",INT: STAR XX
-http://mytv.fun:8080/bastian321/qg9iiqbtv/19674
-#EXTINF:-1 group-title=",INT: PORN XX
-http://mytv.fun:8080/bastian321/qg9iiqbtv/13867
-#EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
-http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
-http://185.246.210.55:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
-#EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
