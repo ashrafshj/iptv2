@@ -1,39 +1,39 @@
 #EXTINF:-1 tvg-name="ETV HD(Airtel)" group-title="Telugu Entertainment" tvg-logo="https://assets.wxca.cf/images/a/gNSspyBujV.png",ETV HD
-http://89.187.169.204:2200/R-EX/TELUGU_ETV_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.imax.re:80/live/307221124532/307221124532/83999.m3u8
 #EXTINF:-1 tvg-name="ETV Plus(JioTV)" group-title="Telugu Entertainment" tvg-logo="https://assets.wxca.cf/images/j/wRiPAbEenN.png",ETV Plus
-http://89.187.169.204:2200/R-EX/TELUGU_ETV_PLUS-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.imax.re:80/live/307221124532/307221124532/83984.m3u8
 #EXTINF:-1 tvg-name="Zee Telugu HD(Airtel)" group-title="Telugu Entertainment" tvg-logo="https://assets.wxca.cf/images/a/IdCLvAdqSu.png",Zee Telugu HD
-http://z5amshls.akamaized.net/zeeteleguhd/tracks-v1a1/playlist.m3u8
+http://rv.imax.re:80/live/307221124532/307221124532/83982.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Telugu Movies",Zee Cinemalu
-http://z5amshls.akamaized.net/zcinemalusd/tracks-v1a1/playlist.m3u8
+http://rv.imax.re:80/live/307221124532/307221124532/83983.m3u8
 #EXTINF:-1 tvg-name="Gemini TV HD(Airtel)" group-title="Telugu Entertainment" tvg-logo="https://assets.wxca.cf/images/a/daFFMIJdUI.png",Gemini TV HD
-http://89.187.169.204:2200/R-EX/TELUGU_GEMINI_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.imax.re:80/live/307221124532/307221124532/83998.m3u8
 #EXTINF:-1 tvg-name="Gemini Movies HD(Hotstar)" group-title="Telugu Movies" tvg-logo="https://assets.wxca.cf/images/a/wQHatqfCMX.png",Gemini Movies HD
-http://89.187.169.204:2200/R-EX/TELUGU_GEMINI_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.imax.re:80/live/307221124532/307221124532/83997.m3u8
 #EXTINF:-1 tvg-name="Star Maa HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu Entertainment",Star Maa HD
-http://185.246.210.55:2200/R-EX/TELUGU_STAR_MAA_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.imax.re:80/live/307221124532/307221124532/83988.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Telugu Movies",Maa Movies HD
-http://89.187.169.204:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.imax.re:80/live/307221124532/307221124532/83994.m3u8
 #EXTINF:-1 tvg-name="Sony" group-title="Hindi Entertainment"tvg-logo="https://imgur.com/download/F8poNA2/",Sony TV
-http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
+http://rv.imax.re:80/live/307221124532/307221124532/83706.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix HD
-http://185.246.210.55:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token=
+http://rv.imax.re:80/live/307221124532/307221124532/83703.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
-http://185.246.210.55:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.imax.re:80/live/307221124532/307221124532/83990.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
-http://89.187.169.204:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.imax.re:80/live/307221124532/307221124532/83646.m3u8
 #EXTINF:-1 tvg-name="V6 News" tvg-logo="https://watchindia.net/images/channels/telugu/V6_News.png" group-title="Telugu News",V6 News
-http://185.246.210.55:2200/R-EX/TELUGU_V6_NEWS-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.imax.re:80/live/307221124532/307221124532/83985.m3u8
 #EXTINF:-1 tvg-name="TV9 Telugu News(Airtel)" group-title="Telugu News" tvg-logo="https://assets.wxca.cf/images/a/VyyivPnsCE.png",TV9 News
-http://89.187.169.204:2200/R-EX/TELUGU_TV9_TELUGU_NEWS-in/tracks-v1a1/mono.m3u8?token=
+http://rv.imax.re:80/live/307221124532/307221124532/83986.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/3WqRpU3/" group-title="KIDS",Kushi TV
-http://89.187.169.204:2200/R-EX/TELUGU_KUSHI_TV-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.imax.re:80/live/307221124532/307221124532/83971.m3u8
 #EXTINF:-1 tvg-name="Gemini Music HD(Airtel)" group-title="Telugu Music" tvg-logo="https://assets.wxca.cf/images/a/FohbdzNWKY.png",Gemini Music 
-http://89.187.169.204:2200/R-EX/TELUGU_GEMINI_MUSIC-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.imax.re:80/live/307221124532/307221124532/83981.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Hindi Music",9X Jalwa
-http://185.246.210.55:2200/R-EX/HINDI_9X_JALWA-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://rv.imax.re:80/live/307221124532/307221124532/83694.m3u8
 #EXTINF:-1 group-title=",INT: BIG DICK
 http://live.redtraffic.xyz/bigdick.m3u8?streamType=live
 #EXTINF:-1 group-title=",INT: TEEN
@@ -49,8 +49,8 @@ http://uruguayiptv.com:25461/leandro1/leandro123/11276
 #EXTINF:-1 group-title=",INT:XXX:EROTIC 1
 http://uruguayiptv.com:25461/leandro1/leandro123/11206  
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
-http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2756
 #EXTINF:-1 tvg-logo="https://imgur.com/download/htzOZUC/" group-title="SPORTS",Star Select 1
-http://185.246.210.55:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2752
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2758
