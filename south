@@ -13,7 +13,7 @@ http://rv.imax.re:80/live/307221124532/307221124532/83997.m3u8
 #EXTINF:-1 tvg-name="Star Maa HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu Entertainment",Star Maa HD
 http://rv.imax.re:80/live/307221124532/307221124532/83988.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Telugu Movies",Maa Movies HD
-http://rv.imax.re:80/live/307221124532/307221124532/83994.m3u8
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/24761
 #EXTINF:-1 tvg-name="Sony" group-title="Hindi Entertainment"tvg-logo="https://imgur.com/download/F8poNA2/",Sony TV
 http://rv.imax.re:80/live/307221124532/307221124532/83706.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix HD
