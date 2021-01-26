@@ -28,6 +28,8 @@ http://rv.imax.re:80/live/307221124532/307221124532/83646.m3u8
 http://rv.imax.re:80/live/307221124532/307221124532/83985.m3u8
 #EXTINF:-1 tvg-name="TV9 Telugu News(Airtel)" group-title="Telugu News" tvg-logo="https://assets.wxca.cf/images/a/VyyivPnsCE.png",TV9 News
 http://rv.imax.re:80/live/307221124532/307221124532/83986.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/46347
 #EXTINF:-1 tvg-logo="https://imgur.com/download/3WqRpU3/" group-title="KIDS",Kushi TV
 http://rv.imax.re:80/live/307221124532/307221124532/83971.m3u8
 #EXTINF:-1 tvg-name="Gemini Music HD(Airtel)" group-title="Telugu Music" tvg-logo="https://assets.wxca.cf/images/a/FohbdzNWKY.png",Gemini Music 
