@@ -1,26 +1,26 @@
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/250x250_72a28627-db58-4739-b61c-4e4208897aed.jpg",Gemini TV HD
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47982&output=m3u8
+http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6709/index.m3u8
 #EXTINF:-1 tvg-id="638" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png",Zee Telugu
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47998&output=m3u8
+http://185.246.210.47:2200/R-EX/TELUGU_ZEE_TELUGU_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="629" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",ETV 
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47984&output=m3u8
+http://185.246.210.45:2200/R-EX/TELUGU_ETV_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="692" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",ETV Plus
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47987&output=m3u8
+http://185.246.210.47:2200/R-EX/TELUGU_ETV_PLUS-in/index.m3u8?token=
 #EXTINF:-1 group-title="IN", Star Maa HD
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47975&output=m3u8
+http://185.246.210.46:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 #EXTINF:0 group-title="Telugu" ,Star Maa Movies HD
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47974&output=m3u8
+http://185.246.210.45:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg",Gemini Movies HD
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47983&output=m3u8
+http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6710/index.m3u8
 #EXTINF:-1 tvg-id="413" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48004&output=m3u8
+http://185.246.210.42:2200/R-EX/TELUGU_ZEE_CINEMALU-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="252" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png",ETV Cinema
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47985&output=m3u8
+http://185.246.210.44:2200/R-EX/TELUGU_ETV_CINEMA_TELUGU_-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="737" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="MUSIC",Raj Music Telugu
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48001&output=m3u8
-#EXTINF:-1 group-title="NEWS",TELUGU TV5 NEWS
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47993&output=m3u8
+http://185.246.210.45:2200/R-EX/TELUGU_RAJ_MUSIC_TELUGU-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3525.png" group-title="NEWS",TELUGU TV5 NEWS
+http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6712/index.m3u8
 #EXTINF:-1 group-title="NEWS",TELUGU V6 NEWS
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47991&output=m3u8
+http://185.246.210.49:2200/R-EX/TELUGU_V6_NEWS-in/index.m3u8?token=
 #EXTINF:-1 group-title="NEWS",TELUGU RAJ NEWS
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47999&output=m3u8
+http://185.246.210.46:2200/R-EX/TELUGU_RAJ_NEWS-in/index.m3u8?token=
